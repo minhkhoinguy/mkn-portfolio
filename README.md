@@ -78,9 +78,9 @@ The following image shows the web application's appearance:
 [MIT License](LICENSE)
 
 ## Link
-[Github](https://github.com/minhkhoinguy/newPortpolio)
+[Github](https://github.com/minhkhoinguy/mkn-portfolio)
 
-[Deploy](https://newportfolio98.herokuapp.com/)
+[Deploy](https://mkn-portfolio.herokuapp.com/)
 
 ## Contact
 Contact me with the link below if you have any questions!
